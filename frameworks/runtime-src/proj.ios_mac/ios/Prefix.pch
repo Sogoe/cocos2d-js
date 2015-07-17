@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'sinball' target in the 'sinball' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
