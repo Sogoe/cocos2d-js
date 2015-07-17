@@ -2,3 +2,5 @@ book_res/
 jetplane/
 sushi/
 */.idea
+.idea/
+*/publish
